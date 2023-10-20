@@ -1,0 +1,76 @@
+
+
+
+.schedule {
+    color: rgb(13, 231, 231);
+    font-size: 50px;
+    text-align: center;
+}
+
+.number {
+    color: rgb(78, 6, 146);
+    font-style: italic;
+    font-size:30px;
+    line-height: 1px;
+    text-align: center;
+}
+
+
+
+img {
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+
+.img {
+    text-align: center;
+}
+ 
+.class {
+    margin: 0 auto;
+}
+
+.class_schools {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: red;
+}
+
+.weekday {
+    width:100%
+}
+
+.lesson {
+    width: 50%;
+    background-color: rgb(70, 170, 170);
+    font-weight: bold;
+    margin-left: 25%;
+}
+
+.otstup {
+    margin-top: 40px;
+ 
+}
+
+.caption {
+    text-align: left;
+    display: inline;
+}
+
+span {
+    margin-left: 25%;  
+    font-weight: bold;
+    letter-spacing: 10px;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+    color: pink ;
+
+}
+
+.up {
+    text-align: right;
+}
